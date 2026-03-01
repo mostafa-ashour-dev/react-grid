@@ -7,13 +7,11 @@ A high-performance, flexible grid component for rendering large lists of items e
 - **Virtualization**: Only renders visible items for optimal performance
 - **Flexible Layouts**: Customizable number of columns and item spacing
 - **Scrolling**: Smooth scroll handling with configurable directions
-- **Refreshing**: Pull-to-refresh support
-- **Accessibility**: Built-in keyboard and screen reader support
 
 ## Installation
 
 ```bash
-npm install grid-package
+npm install react-grid
 ```
 
 ## Usage
