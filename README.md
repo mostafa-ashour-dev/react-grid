@@ -41,7 +41,7 @@ const items: Item[] = [
 
 export default function MyComponent() {
   return (
-    <Grid
+    <Grid<Item>
       data={items}
       cols={3}
       gap={4}
@@ -59,7 +59,7 @@ export default function MyComponent() {
 ### Advanced Example with Scrolling
 
 ```tsx
-<Grid
+<Grid<Item>
   data={items}
   cols={4}
   gap={2}
