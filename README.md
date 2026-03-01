@@ -19,7 +19,7 @@ npm install react-grid
 ### Basic Example
 
 ```tsx
-import { Grid } from 'grid-package';
+import { Grid } from 'react-grid';
 
 interface Item {
   id: number;
