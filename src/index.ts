@@ -1,5 +1,2 @@
-import { Grid } from "./Grid";
-
-export { Grid };
-export type { GridProps } from "./types";
-export default Grid;
+export { default as GridContainer } from "./Grid";
+export * from "./types";

@@ -16,7 +16,7 @@ const gapOptions = {
   6: "gap-8",
 };
 
-export function Grid<T>({
+function Grid<T>({
   data,
   cols = 3,
   gap = 4,
